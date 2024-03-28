@@ -23,7 +23,7 @@ Here is a screenshot of the testimonials grid selection replicated by me.
 
 ### Links
 
-- Live Site URL: (https://master-shadman7.github.io/grid-testimonial/)
+- Live Site URL: (https://master-shadman7.github.io/testimonials-grid/)
 
 ## My process
 
